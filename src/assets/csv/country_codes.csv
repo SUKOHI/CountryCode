@@ -1,0 +1,250 @@
+country-name-en,country-name-ja,alpha-2,alpha-3,numeric
+Aruba,アルバ,AW,ABW,533
+Afghanistan,アフガニスタン,AF,AFG,4
+Angola,アンゴラ,AO,AGO,24
+Anguilla,アンギラ,AI,AIA,660
+Albania,アルバニア,AX,ALA,248
+Andorra,アンドラ,AL,ALB,8
+Netherlands Antilles,オランダ領アンティル,AD,AND,20
+United Arab Emirates,アラブ首長国連邦,AE,ARE,784
+Argentina,アルゼンチン,AR,ARG,32
+Armenia,アルメニア,AM,ARM,51
+American Samoa,サモア,AS,ASM,16
+Antarctica,南極,AQ,ATA,10
+French Southern and Antarctic Lands,フランス領南極地方,TF,ATF,260
+Antigua and Barbuda,アンティグア・バーブーダ,AG,ATG,28
+Australia,オーストラリア,AU,AUS,36
+Austria,オーストリア,AT,AUT,40
+Azerbaijan,アゼルバイジャン,AZ,AZE,31
+Burundi,ブルンジ,BI,BDI,108
+Belgium,ベルギー,BE,BEL,56
+Benin,ベナン,BJ,BEN,204
+"Bonaire, Saint Eustatius and Saba",BES諸島,BQ,BES,535
+Burkina Faso,ブルキナファソ,BF,BFA,854
+Bangladesh,バングラデシュ,BD,BGD,50
+Bulgaria,ブルガリア,BG,BGR,100
+Bahrain,バーレーン,BH,BHR,48
+"Bahamas, The",バハマ,BS,BHS,44
+Bosnia and Herzegovina,ボスニア・ヘルツェゴビナ,BA,BIH,70
+Saint Barthélemy,サン・バルテルミー島,BL,BLM,652
+Belarus,ベラルーシ,BY,BLR,112
+Belize,ベリーズ,BZ,BLZ,84
+Bermuda,バミューダ諸島,BM,BMU,60
+Bolivia,ボリビア,BO,BOL,68
+Brazil,ブラジル,BR,BRA,76
+Barbados,バルバドス,BB,BRB,52
+Brunei,ブルネイ,BN,BRN,96
+Bhutan,ブータン,BT,BTN,64
+Bouvet Island,ブーベ島,BV,BVT,74
+Botswana,ボツワナ,BW,BWA,72
+Central African Republic,中央アフリカ共和国,CF,CAF,140
+Canada,カナダ,CA,CAN,124
+Cocos (Keeling) Islands,ココス諸島/キーリング諸島,CC,CCK,166
+Switzerland,スイス,CH,CHE,756
+Chile,チリ,CL,CHL,152
+China,中華人民共和国,CN,CHN,156
+Côte d'Ivoire,コートジボワール,CI,CIV,384
+Cameroon,カメルーン,CM,CMR,120
+Congo (DRC),コンゴ民主共和国,CD,COD,180
+Congo,コンゴ共和国,CG,COG,178
+Cook Islands,クック諸島,CK,COK,184
+Colombia,コロンビア,CO,COL,170
+Comoros,コモロ,KM,COM,174
+Cape Verde,カーボベルデ,CV,CPV,132
+Costa Rica,コスタリカ,CR,CRI,188
+Cuba,キューバ,CU,CUB,192
+Curaçao,キュラソー,CW,CUW,531
+Christmas Island,クリスマス島,CX,CXR,162
+Cayman Islands,ケイマン諸島,KY,CYM,136
+Cyprus,キプロス,CY,CYP,196
+Czech Republic,チェコ共和国,CZ,CZE,203
+Germany,ドイツ,DE,DEU,276
+Djibouti,ジブチ,DJ,DJI,262
+Dominica,ドミニカ,DM,DMA,212
+Denmark,デンマーク,DK,DNK,208
+Dominican Republic,ドミニカ共和国,DO,DOM,214
+Algeria,アルジェリア,DZ,DZA,12
+Ecuador,エクアドル,EC,ECU,218
+Egypt,エジプト,EG,EGY,818
+Eritrea,エリトリア,ER,ERI,232
+Western Sahara,西サハラ,EH,ESH,732
+Spain,スペイン,ES,ESP,724
+Estonia,エストニア,EE,EST,233
+Ethiopia,エチオピア,ET,ETH,231
+Finland,フィンランド,FI,FIN,246
+Fiji Islands,フィジー諸島,FJ,FJI,242
+Falkland Islands (Islas Malvinas),フォークランド (マルビナス) 諸島,FK,FLK,238
+France,フランス,FR,FRA,250
+Faroe Islands,フェロー諸島,FO,FRO,234
+Micronesia,ミクロネシア,FM,FSM,583
+"France, Metropolitan",フランス領自治区,GA,GAB,266
+Gabon,ガボン,GB,GBR,826
+United Kingdom,英国,GE,GEO,268
+Georgia,グルジア,GG,GGY,831
+Ghana,ガーナ,GH,GHA,288
+Gibraltar,ジブラルタル,GI,GIB,292
+Guinea,ギニア,GN,GIN,324
+Guadeloupe,グアドループ,GP,GLP,312
+"Gambia, The",ガンビア,GM,GMB,270
+Guinea-Bissau,ギニアビサウ,GW,GNB,624
+Equatorial Guinea,赤道ギニア,GQ,GNQ,226
+Greece,ギリシャ,GR,GRC,300
+Grenada,グレナダ,GD,GRD,308
+Greenland,グリーンランド,GL,GRL,304
+Guatemala,グアテマラ,GT,GTM,320
+French Guiana,フランス領ギアナ,GF,GUF,254
+Guam,グアム,GU,GUM,316
+Guyana,ガイアナ,GY,GUY,328
+Hong Kong SAR,香港 SAR,HK,HKG,344
+Heard Island and McDonald Islands,ハード・マクドナルド諸島,HM,HMD,334
+Honduras,ホンジュラス,HN,HND,340
+Croatia,クロアチア,HR,HRV,191
+Haiti,ハイチ,HT,HTI,332
+Hungary,ハンガリー,HU,HUN,348
+Indonesia,インドネシア,ID,IDN,360
+India,マン島,IM,IMN,833
+India,インド,IN,IND,356
+British Indian Ocean Territory,英領インド洋地域,IO,IOT,86
+Ireland,アイルランド,IE,IRL,372
+Iran,イラン,IR,IRN,364
+Iraq,イラク,IQ,IRQ,368
+Iceland,アイスランド,IS,ISL,352
+Israel,イスラエル,IL,ISR,376
+Italy,イタリア,IT,ITA,380
+Jamaica,ジャマイカ,JM,JAM,388
+Jersey,ジャージー,JE,JEY,832
+Jordan,ヨルダン,JO,JOR,400
+Japan,日本,JP,JPN,392
+Kazakhstan,カザフスタン,KZ,KAZ,398
+Kenya,ケニア,KE,KEN,404
+Kyrgyzstan,キルギス,KG,KGZ,417
+Cambodia,カンボジア,KH,KHM,116
+Kiribati,キリバス,KI,KIR,296
+St. Kitts and Nevis,セントクリストファー・ネイビス,KN,KNA,659
+Korea,大韓民国,KR,KOR,410
+Kuwait,クウェート,KW,KWT,414
+Laos,ラオス,LA,LAO,418
+Lebanon,レバノン,LB,LBN,422
+Liberia,リベリア,LR,LBR,430
+Libya,リビア,LY,LBY,434
+St. Lucia,セントルシア,LC,LCA,662
+Liechtenstein,リヒテンシュタイン,LI,LIE,438
+Sri Lanka,スリランカ,LK,LKA,144
+Lesotho,レソト,LS,LSO,426
+Lithuania,リトアニア,LT,LTU,440
+Luxembourg,ルクセンブルグ,LU,LUX,442
+Latvia,ラトビア,LV,LVA,428
+Macau SAR,マカオ SAR,MO,MAC,446
+Saint Martin,サン・マルタン,MF,MAF,663
+Morocco,モロッコ,MA,MAR,504
+Monaco,モナコ,MC,MCO,492
+Moldova,モルドバ,MD,MDA,498
+Madagascar,マダガスカル,MG,MDG,450
+Maldives,モルディブ,MV,MDV,462
+Mexico,メキシコ,MX,MEX,484
+Marshall Islands,マーシャル諸島,MH,MHL,584
+"Macedonia, Former Yugoslav Republic of",マケドニア旧ユーゴスラビア共和国,MK,MKD,807
+Mali,マリ,ML,MLI,466
+Malta,マルタ,MT,MLT,470
+Myanmar,ミャンマー,MM,MMR,104
+Montenegro,モンテネグロ,ME,MNE,499
+Mongolia,モンゴル,MN,MNG,496
+Northern Mariana Islands,北マリアナ諸島,MP,MNP,580
+Mozambique,モザンビーク,MZ,MOZ,508
+Mauritania,モーリタニア,MR,MRT,478
+Montserrat,モンセラット,MS,MSR,500
+Martinique,マルチニーク島,MQ,MTQ,474
+Mauritius,モーリシャス,MU,MUS,480
+Malawi,マラウイ,MW,MWI,454
+Malaysia,マレーシア,MY,MYS,458
+Mayotte,マイヨット島,YT,MYT,175
+Namibia,ナミビア,NA,NAM,516
+New Caledonia,ニューカレドニア,NC,NCL,540
+Niger,ニジェール,NE,NER,562
+Norfolk Island,ノーフォーク島,NF,NFK,574
+Nigeria,ナイジェリア,NG,NGA,566
+Nicaragua,ニカラグア,NI,NIC,558
+Niue,ニウエ,NU,NIU,570
+"Netherlands, The",オランダ,NL,NLD,528
+Norway,ノルウェー,NO,NOR,578
+Nepal,ネパール,NP,NPL,524
+Nauru,ナウル,NR,NRU,520
+New Zealand,ニュージーランド,NZ,NZL,554
+Oman,オマーン,OM,OMN,512
+Pakistan,パキスタン,PK,PAK,586
+Panama,パナマ,PA,PAN,591
+Pitcairn Islands,ピトケアン,PN,PCN,612
+Peru,ペルー,PE,PER,604
+Philippines,フィリピン,PH,PHL,608
+Palau,パラオ,PW,PLW,585
+Papua New Guinea,パプアニューギニア,PG,PNG,598
+Poland,ポーランド,PL,POL,616
+Puerto Rico,プエルトリコ,PR,PRI,630
+North Korea,朝鮮民主主義人民共和国,KP,PRK,408
+Portugal,ポルトガル,PT,PRT,620
+Paraguay,パラグアイ,PY,PRY,600
+"Palestinian Territory, Occupied",ガザ地区,PS,PSE,275
+French Polynesia,フランス領ポリネシア,PF,PYF,258
+Qatar,カタール,QA,QAT,634
+Reunion,レユニオン,RE,REU,638
+Romania,ルーマニア,RO,ROU,642
+Russia,ロシア,RU,RUS,643
+Rwanda,ルワンダ,RW,RWA,646
+Saudi Arabia,サウジアラビア,SA,SAU,682
+Sudan,スーダン,SD,SDN,729
+Senegal,セネガル,SN,SEN,686
+Singapore,シンガポール,SG,SGP,702
+South Georgia and the South Sandwich Islands,サウスジョージア・サウスサンドウィッチ諸島,GS,SGS,239
+St. Helena,セントヘレナ,SH,SHN,654
+Svalbard and Jan Mayen,スバールバル諸島およびヤンマイエン島,SJ,SJM,744
+Solomon Islands,ソロモン諸島,SB,SLB,90
+Sierra Leone,シエラレオネ,SL,SLE,694
+El Salvador,エルサルバドル,SV,SLV,222
+San Marino,サンマリノ,SM,SMR,674
+Somalia,ソマリア,SO,SOM,706
+St. Pierre and Miquelon,サンピエール・ミクロン,PM,SPM,666
+Serbia,セルビア,RS,SRB,688
+South Sudan,南スーダン,SS,SSD,728
+São Tomé and Príncipe,サントメ・プリンシペ,ST,STP,678
+Suriname,スリナム,SR,SUR,740
+Slovakia,スロバキア,SK,SVK,703
+Slovenia,スロベニア,SI,SVN,705
+Sweden,スウェーデン,SE,SWE,752
+Swaziland,スワジランド,SZ,SWZ,748
+Sint Maarten,シント・マールテン,SX,SXM,534
+Seychelles,セイシェル,SC,SYC,690
+Syria,シリア,SY,SYR,760
+Turks and Caicos Islands,タークス・カイコス諸島,TC,TCA,796
+Chad,チャド,TD,TCD,148
+Togo,トーゴ,TG,TGO,768
+Thailand,タイ,TH,THA,764
+Tajikistan,タジキスタン,TJ,TJK,762
+Tokelau,トケラウ諸島,TK,TKL,772
+Turkmenistan,トルクメニスタン,TM,TKM,795
+East Timor,東ティモール,TL,TLS,626
+Tonga,トンガ,TO,TON,776
+Trinidad and Tobago,トリニダード・トバゴ,TT,TTO,780
+Tunisia,チュニジア,TN,TUN,788
+Turkey,トルコ,TR,TUR,792
+Tuvalu,ツバル,TV,TUV,798
+Taiwan,台湾,TW,TWN,158
+Tanzania,タンザニア,TZ,TZA,834
+Uganda,ウガンダ,UG,UGA,800
+Ukraine,ウクライナ,UA,UKR,804
+U.S. Minor Outlying Islands,米領オセアニア諸島,UM,UMI,581
+Uruguay,ウルグアイ,UY,URY,858
+United States,米国,US,USA,840
+Uzbekistan,ウズベキスタン,UZ,UZB,860
+Vatican City,バチカン,VA,VAT,336
+St. Vincent and the Grenadines,セントビンセント,VC,VCT,670
+Venezuela,ベネズエラ,VE,VEN,862
+"Virgin Islands, British",英領バージン諸島,VG,VGB,92
+Virgin Islands,バージン諸島,VI,VIR,850
+Viet Nam,ベトナム,VN,VNM,704
+Vanuatu,バヌアツ,VU,VUT,548
+Wallis and Futuna,ワリス・フテュナ諸島,WF,WLF,876
+Samoa,サモア,WS,WSM,882
+Yemen,イエメン,YE,YEM,887
+South Africa,南アフリカ,ZA,ZAF,710
+Zambia,ザンビア,ZM,ZMB,894
+Zimbabwe,ジンバブエ,ZW,ZWE,716
