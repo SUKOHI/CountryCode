@@ -1,0 +1,17 @@
+{
+    "name": "sukohi/country-code",
+    "description": "Country codes based on iso 3166-1 like country name, alpha-2 code, alpha-3 code or numeric code for PHP",
+    "authors": [
+        {
+            "name": "Sukohi",
+            "email": "capilano.sukohi@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sukohi\\CountryCode\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
