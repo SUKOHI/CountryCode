@@ -11,19 +11,20 @@ Execute composer command.
 
 # Usage
 
-    $country_code = new \Sukohi\CountryCode\CountryCode();
-    $mode = 'alpha-2';  // or alpha-3, numeric (skippable)
-    
-    // Array
-    $country_data = $country_code->getArray($mode);
-    print_r($country_data);
-    
-    // Country Name
-    $key = 'US';
-    $mode = 'alpha-2';  // or alpha-3, numeric (skippable)
-    $locale = 'en';     // (skippable)
-    echo $country_code->countryName($key, $mode, $locale);  // United States
+```php
+$country_code = new \Sukohi\CountryCode\CountryCode();
+$mode = 'alpha-2';  // or alpha-3, numeric (skippable)
 
+// Array
+$country_data = $country_code->getArray($mode);
+print_r($country_data);
+
+// Country Name
+$key = 'US';
+$mode = 'alpha-2';  // or alpha-3, numeric (skippable)
+$locale = 'en';     // (skippable)
+echo $country_code->countryName($key, $mode, $locale);  // United States
+ ```
 # Contribution
 
 If you can translate country names to your mother language, please add the names in `assets/csv/country_codes.csv`.  
